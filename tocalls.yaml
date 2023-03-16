@@ -1176,3 +1176,7 @@ tocalls:
    model: radiosonde_auto_rx
    class: software
    os: Linux/Unix
+
+ - tocall: APHP??
+   vendor: HP3ICC
+   model: Raspbian Proyect by HP3ICC
